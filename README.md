@@ -1,5 +1,27 @@
 # Тема 4 • Однорідні та квазіоднорідні рівняння на площині — інтерактивний Dash-додаток
 
+<img width="1891" height="1064" alt="image" src="https://github.com/user-attachments/assets/2cc8dad1-fb69-430b-bcf7-3fef0ae02bf2" />
+
+
+<img width="1900" height="1053" alt="image" src="https://github.com/user-attachments/assets/f96829e5-0de0-4118-b3ec-38df356caa65" />
+
+
+
+<img width="1899" height="1052" alt="image" src="https://github.com/user-attachments/assets/baa9600f-89ec-436e-bf77-0125ccffca5a" />
+
+
+<img width="1894" height="1059" alt="image" src="https://github.com/user-attachments/assets/d5c39bda-d5a1-4654-a622-ecf891792749" />
+
+
+
+
+<img width="1885" height="1043" alt="image" src="https://github.com/user-attachments/assets/2a064b16-d476-4e95-b8cd-92bd74bf88e0" />
+
+
+<img width="1897" height="1065" alt="image" src="https://github.com/user-attachments/assets/5d552c03-1478-48c3-845e-5f5caee66652" />
+
+
+
 > **Коротко:** це наочно-інтерактивний репозиторій до теми 4 курсу диференціальних рівнянь: однорідні, квазіоднорідні та лінійні системи на площині. Усе подане як сучасний веб‑інструмент на **Dash**/**Plotly** з «футуристичною» візуалізацією: векторні поля, конуси‑стрілки, теплокарти швидкостей, контури, живі частинки потоку, траєкторії та інваріанти.
 
 ---
